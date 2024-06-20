@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">joki</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_lupapw">Lupapw</string>
+    <string name="title_activity_daftar">daftar</string>
+    <string name="title_activity_resephome">resephome</string>
+    <string name="title_activity_resepdetail">resepdetail</string>
+</resources>
