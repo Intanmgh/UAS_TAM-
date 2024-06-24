@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">joki</string>
+    <string name="app_name">Resep Makanan</string>
     <string name="title_activity_login">Login</string>
     <string name="title_activity_signup">Signup</string>
     <string name="title_activity_lupapw">Lupapw</string>
